@@ -72,7 +72,7 @@
 /*    */         try
 /*    */         {
 /* 74 */           msg = wizard.model.getTargetArray()[0].getProperty(
-/* 75 */             "object_name").toString();
+/* 75 111*/             "object_name").toString();
 /*    */         }
 /*    */         catch (Exception e)
 /*    */         {
